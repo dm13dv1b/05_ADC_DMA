@@ -1,0 +1,49 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\inc\stm32f4xx.h)(0x53A164F8)()
+F (.\inc\system_stm32f4xx.h)(0x4EAA6856)()
+F (.\inc\Core\core_cm4.h)(0x512C8EE2)()
+F (.\inc\Core\core_cm4_simd.h)(0x522DAB68)()
+F (.\inc\Core\core_cmFunc.h)(0x512C8EE2)()
+F (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)()
+F (.\src\main.c)(0x53AAAB78)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\inc\Core -I.\src-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (src\system_stm32f4xx.c)(0x53A1553C)
+I (.\inc\stm32f4xx.h)(0x53A164F8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x4EAA6856)
+I (.\inc\main.h)(0x53AAA8AE)
+I (.\inc\misc.h)(0x53AAA8F6)
+I (.\inc\stm32f4xx_periph.h)(0x53A190E2)
+I (.\inc\stm32f4xx_it.h)(0x53AAA696)
+F (.\src\startup_stm32f4xx.s)(0x4EAA6856)(--cpu Cortex-M4.fp -g --apcs=interwork -I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include--list .\startup_stm32f4xx.lst --xref -o .\startup_stm32f4xx.o --depend .\startup_stm32f4xx.d)
+F (.\src\stm32f4xx_periph.c)(0x53AAAB78)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\inc\Core -I.\src-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\stm32f4xx_periph.o --omf_browse .\stm32f4xx_periph.crf --depend .\stm32f4xx_periph.d)
+I (.\inc\stm32f4xx.h)(0x53A164F8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x4EAA6856)
+I (.\inc\stm32f4xx_periph.h)(0x53A190E2)
+F (.\src\misc.c)(0x53AAAB78)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\inc\Core -I.\src-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\misc.o --omf_browse .\misc.crf --depend .\misc.d)
+I (.\inc\stm32f4xx.h)(0x53A164F8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x4EAA6856)
+I (.\inc\misc.h)(0x53AAA8F6)
+F (.\src\stm32f4xx_it.c)(0x53AAAB78)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\inc\Core -I.\src-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\stm32f4xx_it.o --omf_browse .\stm32f4xx_it.crf --depend .\stm32f4xx_it.d)
+I (.\inc\misc.h)(0x53AAA8F6)
+I (.\inc\stm32f4xx.h)(0x53A164F8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x4EAA6856)
+I (.\inc\stm32f4xx_it.h)(0x53AAA696)
